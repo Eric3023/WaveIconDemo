@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="Wave">
+        <attr name="backgroundcolor" format="color"/>
+        <attr name="wavecolor" format="color"/>
+        <attr name="text" format="string"/>
+        <attr name="textsize" format="dimension"/>
+        <attr name="backgroundtextcolor" format="color"/>
+        <attr name="wavetextcolor" format="color"/>
+    </declare-styleable>
+</resources>
